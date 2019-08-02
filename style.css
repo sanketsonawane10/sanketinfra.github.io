@@ -128,6 +128,8 @@ line-height: 25px;
  
 
   #plusx{
+    
+
 position: absolute;
 width: 50px;
 height: 50px;
@@ -143,12 +145,15 @@ top: 475px;
   }
 
  #plus{
+    
     position: relative;
     text-align: center;
     font-size: 40px;
     color: white;
-    bottom: 5px;
     cursor: pointer;
+    left: 10px;
+    bottom: 10px;
+    
     
  } 
 
