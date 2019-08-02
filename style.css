@@ -139,24 +139,29 @@ right: 0px;
 bottom: 5px;
 right: 40px;
 top: 475px;
-
+z-index: +1;
+text-align: center;
+font-size: 40px;
+    color: white;
+    cursor: pointer;
+    line-height: 40px;
 
 
   }
 
- #plus{
-    /* border: 1px solid red; */
+ /* #plus{
+    border: 1px solid red;
     position: absolute;
-    
+    height: 10px;
     font-size: 40px;
     color: white;
     cursor: pointer;
-    right: 50px;
-    top: 465px;
+    left: 10px;
+    bottom:10px;
     z-index: +1;
     
     
- } 
+ }  */
 
  #remote{
 
