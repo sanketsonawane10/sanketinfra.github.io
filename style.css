@@ -146,13 +146,13 @@ top: 475px;
 
  #plus{
     
-    position: absolute;
-    text-align: center;
+    position: relative;
+    
     font-size: 40px;
     color: white;
     cursor: pointer;
     left: 10px;
-    bottom:1px;
+    bottom:10px;
     
     
  } 
