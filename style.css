@@ -189,6 +189,24 @@ top: 475px;
 
  }
 
+ @media only screen and (min-width: 768px) {
+
+    #plus{
+    
+        
+        
+        font-size: 40px;
+        color: white;
+        cursor: pointer;
+        left: 13px;
+        bottom:7px;
+        
+        
+     }
+
+
+ }
+
 
   
 
